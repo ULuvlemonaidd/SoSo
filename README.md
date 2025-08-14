@@ -41,8 +41,10 @@ Python 3.x
 Termux or iSH shell (Linux-like on iOS)
 
 Internet connection for web-based scans
-Packages (Termux)
+
+Packages (Termux,ISH shell)
 requests, whois, dnspython ,BeautifulSoup
+
 ---
 
 🛠 Installation
