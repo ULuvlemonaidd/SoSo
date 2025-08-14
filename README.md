@@ -42,7 +42,8 @@ Termux or iSH shell (Linux-like on iOS)
 
 Internet connection for web-based scans
 
-Packages (Termux,ISH shell)
+Packages (Termux,ISH shell):
+
 requests, whois, dnspython ,BeautifulSoup
 
 ---
