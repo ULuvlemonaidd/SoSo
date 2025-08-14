@@ -42,7 +42,7 @@ Internet connection for web-based scans
 
 Packages (Termux,ISH shell):
 
-requests, whois, dnspython ,BeautifulSoup
+requests, whois, dnspython ,BeautifulSoup4
 
 ---
 
