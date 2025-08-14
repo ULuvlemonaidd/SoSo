@@ -2,8 +2,6 @@
 Python Vulnerability Scanner
 🚀 Features
 
-Pick your favorite tool from the menu and watch the magic happen:
-
 🔌 TCP Port Scanner – Find open ports on any target.
 
 📡 UDP Scanner – Explore UDP services silently.
