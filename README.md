@@ -1,2 +1,60 @@
 # SoSo
 Python Vulnerability Scanner
+🚀 Features
+
+Pick your favorite tool from the menu and watch the magic happen:
+
+🔌 TCP Port Scanner – Find open ports on any target.
+
+📡 UDP Scanner – Explore UDP services silently.
+
+🌐 IP Address Lookup – Know your IP… or theirs.
+
+🖥 Web Server Detection – Reveal what’s behind the curtain.
+
+📝 CMS Detection – Is it WordPress? Joomla? You’ll know.
+
+☁️ Cloudflare Detection – See if Cloudflare is protecting the target.
+
+🤖 robots.txt Scanner – Peek at the site’s robots.txt.
+
+📜 WHOIS Lookup – Discover who owns that domain.
+
+🗺 Geo-IP Lookup – Map IPs to real-world locations.
+
+💻 DNS Lookup – Resolve DNS records like a pro.
+
+🔑 Sensitive Files Scanner – Spot publicly exposed goodies.
+
+🏷 Subdomain Scanner – Hunt hidden subdomains.
+
+✏️ Input Field Scanner – Check forms for common vulnerabilities.
+
+
+---
+
+
+⚙️ Requirements
+
+Python 3.x
+
+Termux or iSH shell (Linux-like on iOS)
+
+Internet connection for web-based scans
+
+---
+
+🛠 Installation
+
+Step 1 – Install Python
+
+Termux:
+
+pkg install python
+
+
+iSH shell:
+
+apk add python3
+
+<img width="529" height="525" alt="Screenshot 2025-08-14 2 01 09 PM" src="https://github.com/user-attachments/assets/7ce7e5cc-709d-4aa8-9ce3-2dc024ec49ed" />
