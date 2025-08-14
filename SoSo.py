@@ -63,7 +63,7 @@ def show_banner_and_input():
         print(random.choice(COLOR_LIST) + line + RESET)
         time.sleep(0.05)
     
-    domain = input(f"{CYAN}Enter target domain (example.com): {RESET}")
+    domain = input(f"{CYAN}Enter Target domain (without Http:// OR Https://): {RESET}")
     return normalize_domain(domain)
 
 # ======= SPINNER =======
