@@ -52,11 +52,26 @@ Step 1 – Install Python
 
 Termux:
 
-pkg install python
+git clone https://github.com/ULuvlemonaidd/SoSo/
+
+cd SoSo
+
+python SoSo.py
 
 
 iSH shell:
 
+apk add git
+
 apk add python3
+
+apk add py3-pip
+
+git clone https://github.com/ULuvlemonaidd/SoSo/
+
+cd SoSo
+
+python3 SoSo.py
+
 
 <img width="529" height="525" alt="Screenshot 2025-08-14 2 01 09 PM" src="https://github.com/user-attachments/assets/7ce7e5cc-709d-4aa8-9ce3-2dc024ec49ed" />
